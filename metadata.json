@@ -1,0 +1,6 @@
+{
+  "name": "Luna Study Garden",
+  "description": "A personal Semester 5 academic operating system for Luna, tracking lectures, revisions, practicals, and study sessions with soft scientific stationery aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
